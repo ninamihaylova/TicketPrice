@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\TicketPrice\TicketPrice\bin\Debug\net8.0\TicketPrice.exe
+C:\Users\ninag\RiderProjects\TicketPrice\TicketPrice\bin\Debug\net8.0\TicketPrice.deps.json
+C:\Users\ninag\RiderProjects\TicketPrice\TicketPrice\bin\Debug\net8.0\TicketPrice.runtimeconfig.json
+C:\Users\ninag\RiderProjects\TicketPrice\TicketPrice\bin\Debug\net8.0\TicketPrice.dll
+C:\Users\ninag\RiderProjects\TicketPrice\TicketPrice\bin\Debug\net8.0\TicketPrice.pdb
+C:\Users\ninag\RiderProjects\TicketPrice\TicketPrice\obj\Debug\net8.0\TicketPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\TicketPrice\TicketPrice\obj\Debug\net8.0\TicketPrice.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\TicketPrice\TicketPrice\obj\Debug\net8.0\TicketPrice.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\TicketPrice\TicketPrice\obj\Debug\net8.0\TicketPrice.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\TicketPrice\TicketPrice\obj\Debug\net8.0\TicketPrice.dll
+C:\Users\ninag\RiderProjects\TicketPrice\TicketPrice\obj\Debug\net8.0\refint\TicketPrice.dll
+C:\Users\ninag\RiderProjects\TicketPrice\TicketPrice\obj\Debug\net8.0\TicketPrice.pdb
+C:\Users\ninag\RiderProjects\TicketPrice\TicketPrice\obj\Debug\net8.0\TicketPrice.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\TicketPrice\TicketPrice\obj\Debug\net8.0\ref\TicketPrice.dll
